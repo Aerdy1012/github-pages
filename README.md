@@ -1,4 +1,62 @@
 <header>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Undangan Pernikahan Rani & Irfan</title>
+  <style>
+    body { font-family: sans-serif; background: #f8f0ff; text-align: center; padding: 30px; color: #333; }
+    .card { background: white; padding: 40px; border-radius: 15px; max-width: 600px; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    h1 { color: #800080; }
+    .info { margin: 20px 0; }
+    iframe { width: 100%; height: 300px; border: none; border-radius: 10px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Rani & Irfan</h1>
+    <p>Dengan memohon rahmat dan ridho Allah SWT, kami mengundang Anda ke acara pernikahan kami.</p>
+    <div class="info">
+      <strong>Hari / Tanggal:</strong><br>Sabtu, 10 Mei 2025<br><br>
+      <strong>Waktu:</strong><br>Pukul 10.00 WIB - Selesai<br><br>
+      <strong>Tempat:</strong><br>Gedung Graha Mulya, Bandung
+    </div>
+    <p>Merupakan kehormatan dan kebahagiaan bagi kami jika Anda berkenan hadir.</p>
+
+    <h3>Lokasi Acara:</h3>
+    <iframe src="https://www.google.com/maps/embed?..."></iframe>
+  </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Undangan Pernikahan Rani & Irfan</title>
+  <style>
+    body { font-family: sans-serif; background: #f8f0ff; text-align: center; padding: 30px; color: #333; }
+    .card { background: white; padding: 40px; border-radius: 15px; max-width: 600px; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    h1 { color: #800080; }
+    .info { margin: 20px 0; }
+    iframe { width: 100%; height: 300px; border: none; border-radius: 10px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Rani & Irfan</h1>
+    <p>Dengan memohon rahmat dan ridho Allah SWT, kami mengundang Anda ke acara pernikahan kami.</p>
+    <div class="info">
+      <strong>Hari / Tanggal:</strong><br>Sabtu, 10 Mei 2025<br><br>
+      <strong>Waktu:</strong><br>Pukul 10.00 WIB - Selesai<br><br>
+      <strong>Tempat:</strong><br>Gedung Graha Mulya, Bandung
+    </div>
+    <p>Merupakan kehormatan dan kebahagiaan bagi kami jika Anda berkenan hadir.</p>
+
+    <h3>Lokasi Acara:</h3>
+    <iframe src="https://www.google.com/maps/embed?..."></iframe>
+  </div>
+</body>
+</html>
 
 <!--
   <<< Author notes: Course header >>>
